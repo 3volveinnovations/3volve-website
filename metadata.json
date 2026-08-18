@@ -1,0 +1,6 @@
+{
+  "name": "3volve Innovations",
+  "description": "High-precision engines across biology, mind, and execution to push human capability forward.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
